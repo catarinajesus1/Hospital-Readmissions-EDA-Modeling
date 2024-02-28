@@ -1,9 +1,9 @@
 # Enhancing Patient Outcomes: A Propensity Model for Diabetic Patient Readmissions
 
-The mission is to develop a readmissions model for diabetic patients, addressing critical concerns related to patient well-being, healthcare strain, and financial implications. The hospital seeks to identify cohorts within patient groups that may elevate the probability of readmission and create a machine learning model to pinpoint patients most likely to return after treatment.
+The mission is to develop a readmissions model for diabetic patients, addressing critical concerns related to patient well-being, healthcare strain, and financial implications. The hospital seeks to identify cohorts within patient groups that may elevate the probability of readmission and create a machine-learning model to pinpoint patients most likely to return after treatment.
 
 
-Exploratory Data Analysis (EDA):
+**Exploratory Data Analysis (EDA):**
 
 In-depth analysis of historical data from 7500 diabetic patients.
 
