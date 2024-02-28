@@ -12,7 +12,7 @@ Utilization of supplemental data to enrich insights.
 Exploration of patient profiles, identifying patterns and cohorts.
 
 
-Propensity Model Development:
+**Propensity Model Development:**
 
 Construction of a robust machine learning model to predict readmissions.
 
@@ -21,7 +21,7 @@ Incorporation of variables related to ailment, medicine intake, and physician in
 Rigorous evaluation of model performance to ensure accuracy and reliability.
 
 
-Top 100 Patient Identification:
+**Top 100 Patient Identification:**
 
 Application of the model to the test set of 2500 patients.
 
@@ -30,7 +30,7 @@ Identification of the top 100 patients most likely to be readmitted.
 Unique identifier tagging for seamless integration into the pilot program.
 
 
-Variable Importance and Profile Analysis:
+**Variable Importance and Profile Analysis:**
 
 Evaluation of variable importance to highlight key factors influencing readmissions.
 
